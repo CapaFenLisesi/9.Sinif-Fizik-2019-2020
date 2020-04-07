@@ -19,6 +19,6 @@ Corona Virüs tatili olmadan önce Fizik dersinde 2-3 hafta önde gidiyorduk. E�
 2. (Zorunlu) Bütün aile bireylerinin vücut kütle indeksini hesaplayacaksınız. Bulduğunuz değeri sayfanıza yazacaksınız. 
 
 ## 3. Hafta (06-12 Nisan)
-1. [Bu adrese](https://github.com/ofenerci/9Sinif-2Odev) gidin ve bu ödevi kendi hesabınıza forklayın. Böylece bu depo(repo) artık sizin hesabınızdada bir kopyası olacak. Burdaki soruları cevaplandırın. Kendi dosyanız üzerinde yaptığınız değişikleri save (commit changes) etmeyi unutmayın.  
+1. [Bu adrese](https://github.com/ofenerci/9Sinif-2Odev) gidin ve bu ödevi kendi hesabınıza forklayın (sayfanın sağ üst köşesinde) . Böylece **9Sınıf-2Odev** artık sizin hesabınızdada kendinize ait bir kopyası olacak. Burdaki soruları cevaplandırın. Kendi dosyanız üzerinde yaptığınız değişikleri save (commit changes) etmeyi unutmayın.  
 
 
